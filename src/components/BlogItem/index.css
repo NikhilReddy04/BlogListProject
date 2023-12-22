@@ -1,0 +1,14 @@
+.blog-item-list-element {
+  display: flex;
+  justify-content: space-between;
+}
+
+.blog-item-heading {
+  font-size: 14px;
+  color: #12022f;
+}
+
+.blog-item-para {
+  font-size: 10px;
+  color: #616e7c;
+}

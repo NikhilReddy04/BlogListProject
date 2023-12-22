@@ -1,0 +1,22 @@
+/* Write your CSS code here */
+.user-info-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  font-family: Roboto;
+}
+
+.user-info-image {
+  width: 200px;
+}
+
+.user-info-heading {
+  font-size: 26px;
+  margin-bottom: 0px;
+}
+
+.user-info-para {
+  margin-top: 0px;
+  font-size: 16px;
+}
